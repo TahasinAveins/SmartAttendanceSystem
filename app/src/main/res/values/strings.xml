@@ -17,4 +17,8 @@
     <string name="email">Email</string>
     <string name="reset">Reset</string>
     <string name="back"><![CDATA[<< BACK]]></string>
+    <string name="report">Report</string>
+    <string name="report_back"><![CDATA[<<]]></string>
+    <string name="date_wise_attendance_report">Date wise Attendance Report</string>
+    <string name="sign_out">Sign Out</string>
 </resources>

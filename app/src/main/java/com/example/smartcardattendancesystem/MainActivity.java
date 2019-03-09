@@ -149,6 +149,12 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new  Intent(MainActivity.this,Login.class);
                 startActivity(intent);
             }
+
+            case (R.id.report_id):
+            {
+                Intent intent = new  Intent(MainActivity.this,Report.class);
+                startActivity(intent);
+            }
         }
 
         return super.onOptionsItemSelected(item);
